@@ -1,7 +1,7 @@
 title: Difference between symlink and hard links
 id: 111
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2015-03-22 14:04:50
 tags:
 ---

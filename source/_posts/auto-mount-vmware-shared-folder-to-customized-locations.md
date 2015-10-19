@@ -1,7 +1,7 @@
 title: Auto-mount VMWare Shared Folder to Customized Locations
 id: 70
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2015-01-18 19:18:44
 tags:
 ---

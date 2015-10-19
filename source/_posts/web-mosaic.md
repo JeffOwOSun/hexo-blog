@@ -1,7 +1,7 @@
 title: Web Mosaic
 id: 228
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2015-10-14 08:04:17
 tags:
 ---

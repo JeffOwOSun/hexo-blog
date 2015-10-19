@@ -1,7 +1,7 @@
 title: How to match keywords in a string that occur in arbitrary order?
 id: 105
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2015-03-17 19:50:54
 tags:
 ---

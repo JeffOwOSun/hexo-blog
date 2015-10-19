@@ -1,7 +1,7 @@
 title: SSH Tunnel with Putty
 id: 46
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2014-12-28 18:51:56
 tags:
 ---

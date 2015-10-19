@@ -1,7 +1,7 @@
 title: Difference between two implementations of binary trees
 id: 33
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2014-11-22 22:26:02
 tags:
 ---

@@ -1,7 +1,7 @@
 title: 极影监视器-设想
 id: 18
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2014-10-14 19:39:46
 tags:
 ---

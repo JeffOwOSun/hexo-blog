@@ -1,7 +1,7 @@
 title: "How does wiredesignz's CI HMVC framework work?"
 id: 56
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2015-01-07 20:39:18
 tags:
 ---

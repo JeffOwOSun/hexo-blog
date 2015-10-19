@@ -1,7 +1,7 @@
 title: 博客搭起
 id: 6
 categories:
-  - 'Coding &amp; Geek Stuff'
+  - 'Coding & Geek Stuff'
 date: 2014-09-18 05:50:09
 tags:
 ---
