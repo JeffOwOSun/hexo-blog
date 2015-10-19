@@ -9,7 +9,7 @@ tags:
 ---
 Background
 ----------
-The second project of COMP4411: Computer Graphics, is Modeler. The basic requirements are about coming up with a model you like and draw it using OpenGL. That's not fun. However I looked at the last bonus and was amazed at how many bells it evaluates: $latex 8+4$ bells!
+The second project of COMP4411: Computer Graphics, is Modeler. The basic requirements are about coming up with a model you like and draw it using OpenGL. That's not fun. However I looked at the last bonus and was amazed at how many bells it evaluates: $8+4$ bells!
 
 Gradient descent
 ----------------
